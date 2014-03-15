@@ -1,0 +1,53 @@
+[
+  { "name":" La Coop AgriEst", "adresse":"4650, rue Ste-Catherine", "ville":"St-Isidore-de-Prescott", "prov":"Ontario", "codepostal":"K0C 2B0", "telephone":"613 524-2828", "contact":"patrick.therrien@lacoop.coop" },
+
+  { "name":" La Coop Agrivert", "adresse":"1071 montée St-Laurent", "ville":"Saint-Barthélemy", "prov":"Québec", "codepostal":"J0K 1X0",    "telephone":"450 885-3811", "contact":"agrivert@coopagrivert.com" },
+
+  { "name":" La Coop Agrivoix", "adresse":"2190 boulevard de Comporté", "ville":"La Malbaie", "prov":"Québec", "codepostal":"G5A 1N2", "telephone":"418 439-3991", "contact":"marian.neron@agrivoix.com" },
+
+  { "name":" La Coop Agrodor", "adresse":"340 rue Lyons", "ville":"Thurso", "prov":"Québec", "codepostal":"J0X 3B0", "telephone":"819 985-4839", "contact":"agrodor@agrodor.com" },
+
+  { "name":" La Coop Alliance", "adresse":"470 Route 271 Sud", "ville":"Saint-Éphrem-de-Beauce", "prov":"Québec", "codepostal":"G0M 1R0", "telephone":"418 484-2890", "contact":"alliancecoop@telstep.net" },
+
+  { "name":" La Coop des Appalaches", "adresse":"156 rue Grenier", "ville":"Laurierville", "prov":"Québec", "codepostal":"G0S 1P0", "telephone":"819 365-4811", "contact":"appalaches@coopappalaches.qc.ca" },
+
+  { "name":" Coop Atlantique", "adresse":"123 rue Halifax C. P. 750", "ville":"Moncton", "prov":"Nouveau-Brunswick", "codepostal":"E1C 8N5", "telephone":"506 858-6000", "contact":"ag.generalaccount@coopatlantic.ca" },
+
+  { "name":"La Coop Agrilait", "adresse":"83 route de l'Église", "ville":"Saint-Guillaume", "province":"Québec", "code postal":"J0C 1L0", "Telephone":"819 396-2022", "contact":"info@agrilait.com" },
+
+  { "name":"La Coop Agriscar", "adresse":"25 rue Pelletier", "ville":"Trois-Pistoles", "province":"QC", "code postal":"G0L 4K0", "Telephone":" 418 851-2822", "contact":"adm@agriscar.ca" },
+
+  { "name":"Coopérative agricole de la Baie des Chaleurs", "adresse":"40 route des Érables", "ville":"Caplan", "province":"QC", "code postal":"G0C 1H0", "Telephone":" 418 388-2860", "contact":"coop.bdc@navigue.com" },
+
+  { "name":"La Coopérative de Baie Ste-Anne Ltée", "adresse":"5575 route 117", "ville":"Baie-Sainte-Anne", "province":"NB", "code postal":"E9A 1W1", "Telephone":" 506 228-4211", "contact":"bstanne-mgr@co-opsonline.com" },
+
+  { "name":"La Coop des Bois-Francs", "adresse":"5 avenue Pie X", "ville":"Victoriaville ", "province":"QC", "code postal":"G6P 7W7", "Telephone":" 819 758-0671", "contact":"scabf@boisfrancs.coop" },
+
+  { "name":"La Coopérative de Caraquet Ltée", "adresse":"121 boul. St-Pierre Ouest", "ville":"Caraquet", "province":"NB", "code postal":"E1W 1B7", "Telephone":" 506 727-1930", "contact":"coopjg@nb.aibn.com" },
+
+  { "name":"La Coopérative Cartier Ltée", "adresse":"25 boulevard Cartier", "ville":"Richibucto", "province":"NB", "code postal":"E4W 3W7", "Telephone":" 506 523-4345", "contact":"cartier-mgr@co-opsonline.com" },
+
+  { "name":"La Coop Chambord", "adresse":"1945 Route 169", "ville":"Chambord", "province":"QC", "code postal":"G0W 1G0", "Telephone":" 418 342-6495", "contact":"coopchambord@qc.aira.com" },
+
+  { "name":"Citadelle coopérative de producteurs de sirop d'érable", "adresse":"2100, rue St-Laurent", "ville":"Plessisville", "province":"QC",
+"code postal":"G6L 2Y8", "Telephone":" 819 362-3241", "contact":"citadelle@citadelle-camp.coop" },
+
+  { "name":"La Coop Comax", "adresse":"15100 chemin de la Coopérative", "ville":"Saint-Hyacinthe", "province":"QC", "code postal":"J2R 1S2", "Telephone":" 450 799-3211", "contact":"comax@comax.qc.ca" },
+
+  { "name":"La Coop Compton", "adresse":"26 rue Hatley", "ville":"Compton Village", "province":"QC", "code postal":"J0B 1L0", "Telephone":" 819 835-5411", "contact":"stephane.peloquin@scacompton.com" },
+
+  { "name":"La Coop des Cantons", "adresse":"96 rue Main Est", "ville":"Coaticook", "province":"QC", "code postal":"J1A 1N2", "Telephone":" 819 849-9833", "contact":"administration@coopdescantons.ca" },
+
+  { "name":"La Coop des Montérégiennes", "adresse":"61 rue Ste-Thérèse", "ville":"Granby", "province":"QC", "code postal":"J2G 8E5", "Telephone":" 450 378-2667", "contact":"coopagricole@coopexcel.ca" },
+
+  { "name":"La Coop Covilac", "adresse":"40 rue de l'Église", "ville":"Baie-du-Febvre", "province":"QC", "code postal":"J0G 1A0", "Telephone":" 450 783-6491", "contact":"s.social@covilaccoopagric.qc.ca" },
+
+  { "name":"La Coop des Frontières", "adresse":"195 rue Ste-Marie", "ville":"Sainte-Martine", "province":"QC", "code postal":"J0S 1V0", "Telephone":" 450 427-2003", "contact":"cdfmartine@videotron.ca" },
+
+  { "name":"La Coop des deux rives", "adresse":"1455 rue du Rocher bureau 102", "ville":"Normandin", "province":"QC", "code postal":"G8M 3X5",
+"Telephone":" 418 274-2910", "contact":"dominique.tremblay@coopdeuxrives.com" }
+
+]
+
+
+
