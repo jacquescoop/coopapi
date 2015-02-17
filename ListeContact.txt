@@ -1,0 +1,19 @@
+
+SET CONTACT:Agrivert
+SET CONTACT:Agrivert {"Expert-conseil PA":"Christian Houle"}
+SET CONTACT:Agrivert {"Expert-conseil PA":"Olivier Roy-Tanguay}
+SET CONTACT:Agrivert {"Expert-conseil PV":"Étienne Germain"}
+SET CONTACT:Agrivert {"Experte-conseil PV":"Mélissa Bordeleau"}
+SET CONTACT:Agrivert {"Expert-conseil PV":"Denis Masse"}
+
+SET EXPERTS:Appalaches
+
+SET EXPERTS:Bois-Francs
+
+SET EXPERTS:Comax
+
+SET EXPERTS:Monteregiennes
+
+SET EXPERTS:Covilac
+
+
