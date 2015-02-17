@@ -1,0 +1,5 @@
+"*4\r\n$4\r\nHSET\r\n$13\r\nCOOP:Agrivert\r\n$3\r\nnom\r\n$19\r\n\"La Coop Agrivert\"\r\n"
+"*4\r\n$4\r\nHSET\r\n$13\r\nCOOP:Agrivert\r\n$7\r\nadresse\r\n$25\r\n\"1071 montee St-Laurent\"\r\n"
+"*4\r\n$4\r\nHSET\r\n$13\r\nCOOP:Agrivert\r\n$5\r\nville\r\n$19\r\n\"Saint-Barthelemy\"\r\n"
+"*4\r\n$4\r\nHSET\r\n$13\r\nCOOP:Agrivert\r\n$8\r\nprovince\r\n$5\r\n\"Qc\"\r\n"
+"*4\r\n$4\r\nHSET\r\n$13\r\nCOOP:Agrivert\r\n$10\r\ncodepostal\r\n$10\r\n\"J0K 1X0\"\r\n"

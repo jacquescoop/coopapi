@@ -16,6 +16,7 @@ arg1 = "" ## les arguments passés pour chq ligne
 File.readlines('./ListeCoop.txt').each do |line|
   ##pp line
   @arg1 = line.split("*")
-  puts gen_redis_proto(@arg[0],@arg[1],@arg[2]).inspect
+  ##pp @arg1
+  puts gen_redis_proto(@arg1[0],@arg1[1],@arg1[2]).inspect
 end
 
